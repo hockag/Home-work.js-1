@@ -45,9 +45,9 @@
 //
 // console.log(+isFail)
 
-const apple = '50';
-
-const oranges = '20';
+// const apple = '50';
+//
+// const oranges = '20';
 // console.log(apple + oranges);
 // console.log(Number(apple) + Number(oranges));
 // console.log(+apple + +oranges);
@@ -61,7 +61,7 @@ const oranges = '20';
 //
 // console.log(a.toFixed(2))
 //
-// console.log(Math.floor(2.9));
+console.log(Math.floor(2.9));
 // console.log(Math.ceil(3.1));
 // console.log(Math.round(1.5));
 // console.log(Math.round(1.6));
